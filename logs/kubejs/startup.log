@@ -1,0 +1,17 @@
+[11:30:10] [INIT] KubeJS 1902.6.2-build.73; MC 1902 forge
+[11:30:10] [INIT] Loaded plugins:
+[11:30:10] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[11:30:10] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[11:30:10] [INIT] - fr.iglee42.createcasing.compat.kubejs.KubeJSCompatPlugin
+[11:30:10] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
+[11:30:10] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
+[11:30:10] [INIT] - com.oierbravo.createsifter.compat.kubejs.KubeJSCreatesifterPlugin
+[11:30:10] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[11:30:10] [INIT] - dev.latvian.mods.kubejs.immersiveengineering.ImmersiveEngineeringKubeJSPlugin
+[11:30:10] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
+[11:30:10] [INIT] - com.bobvarioa.kubejsbotanypots.KubeJSBotanyPotsPlugin
+[11:30:10] [INIT] - com.bobvarioa.kjsindustrialforegoing.KJSIndustrialForegoingPlugin
+[11:30:10] [INIT] - com.klikli_dev.modonomicon.integration.kubejs.ModonomiconKubeJSPlugin
+[11:30:11] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[11:30:11] [INFO] Loaded script startup_scripts:example.js in 0.092 s
+[11:30:11] [INFO] Loaded 1/1 KubeJS startup scripts in 0.811 s

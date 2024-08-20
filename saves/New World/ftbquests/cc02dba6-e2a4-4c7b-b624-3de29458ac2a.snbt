@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "cc02dba6e2a44c7bb6243de29458ac2a"
+	name: "NewBoy_Gen4"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
