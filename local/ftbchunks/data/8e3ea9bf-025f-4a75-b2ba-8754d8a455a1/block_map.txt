@@ -1,5 +1,6 @@
 #FA75A8 minecraft:andesite
 #ADF429 supplementaries:ash
+#0F359D minecraft:azure_bluet
 #7F50F6 minecraft:bell
 #53756B minecraft:brick_slab
 #1BDBFB minecraft:brick_stairs
